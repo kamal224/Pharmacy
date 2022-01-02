@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Pharmacy">
+</Property><Property Name="Solution File" Value="D:\Student\Rami\Pharmacy\Pharmacy.sln">
+</Property><Property Name="User Options File" Value="D:\Student\Rami\Pharmacy\Pharmacy.suo">
+</Property><Property Name="Date" Value="Friday, December 30, 2011">
+</Property><Property Name="Time" Value="17:20 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Pharmacy.sln" Description="File successfully backed up as D:\Student\Rami\Pharmacy\Backup\Pharmacy.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Pharmacy.suo" Description="File successfully backed up as D:\Student\Rami\Pharmacy\Backup\Pharmacy.suo">
+</Event><Event ErrorLevel="4" Project="Pharmacy" Source="http://go.microsoft.com/fwlink/?LinkId=159919" Description="Warning: this project requires Crystal Reports, which is no longer included with Visual Studio. Please click here for more information.">
+</Event><Event ErrorLevel="0" Project="Pharmacy" Source="Pharmacy\Pharmacy.csproj" Description="Project file successfully backed up as D:\Student\Rami\Pharmacy\Backup\Pharmacy\Pharmacy.csproj">
+</Event><Event ErrorLevel="0" Project="Pharmacy" Source="Pharmacy\Pharmacy.csproj.user" Description="Project user file successfully backed up as D:\Student\Rami\Pharmacy\Backup\Pharmacy\Pharmacy.csproj.user">
+</Event><Event ErrorLevel="0" Project="Pharmacy" Source="Pharmacy\DsOrder.Designer.cs" Description="File successfully backed up as D:\Student\Rami\Pharmacy\Backup\Pharmacy\DsOrder.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Pharmacy" Source="Pharmacy\Forms\frmCompany.cs" Description="File successfully backed up as D:\Student\Rami\Pharmacy\Backup\Pharmacy\Forms\frmCompany.cs">
+</Event><Event ErrorLevel="0" Project="Pharmacy" Source="Pharmacy\Forms\frmCompany.Designer.cs" Description="File successfully backed up as D:\Student\Rami\Pharmacy\Backup\Pharmacy\Forms\frmCompany.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Pharmacy" Source="Pharmacy\Forms\frmCusOrder.cs" Description="File successfully backed up as D:\Student\Rami\Pharmacy\Backup\Pharmacy\Forms\frmCusOrder.cs">
+</Event><Event ErrorLevel="0" Project="Pharmacy" Source="Pharmacy\Forms\frmCusOrder.Designer.cs" Description="File successfully backed up as D:\Student\Rami\Pharmacy\Backup\Pharmacy\Forms\frmCusOrder.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Pharmacy" Source="Pharmacy\Forms\frmMedicine.cs" Description="File successfully backed up as D:\Student\Rami\Pharmacy\Backup\Pharmacy\Forms\frmMedicine.cs">
+</Event><Event ErrorLevel="0" Project="Pharmacy" Source="Pharmacy\Forms\frmMedicine.Designer.cs" Description="File successfully backed up as D:\Student\Rami\Pharmacy\Backup\Pharmacy\Forms\frmMedicine.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Pharmacy" Source="Pharmacy\Forms\frmReportView.cs" Description="File successfully backed up as D:\Student\Rami\Pharmacy\Backup\Pharmacy\Forms\frmReportView.cs">
+</Event><Event ErrorLevel="0" Project="Pharmacy" Source="Pharmacy\Forms\frmReportView.Designer.cs" Description="File successfully backed up as D:\Student\Rami\Pharmacy\Backup\Pharmacy\Forms\frmReportView.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Pharmacy" Source="Pharmacy\Forms\frmSupOrder.cs" Description="File successfully backed up as D:\Student\Rami\Pharmacy\Backup\Pharmacy\Forms\frmSupOrder.cs">
+</Event><Event ErrorLevel="0" Project="Pharmacy" Source="Pharmacy\Forms\frmSupOrder.Designer.cs" Description="File successfully backed up as D:\Student\Rami\Pharmacy\Backup\Pharmacy\Forms\frmSupOrder.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Pharmacy" Source="Pharmacy\Forms\frmSupplier.cs" Description="File successfully backed up as D:\Student\Rami\Pharmacy\Backup\Pharmacy\Forms\frmSupplier.cs">
+</Event><Event ErrorLevel="0" Project="Pharmacy" Source="Pharmacy\Forms\frmSupplier.Designer.cs" Description="File successfully backed up as D:\Student\Rami\Pharmacy\Backup\Pharmacy\Forms\frmSupplier.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Pharmacy" Source="Pharmacy\Forms\MDIMain.cs" Description="File successfully backed up as D:\Student\Rami\Pharmacy\Backup\Pharmacy\Forms\MDIMain.cs">
+</Event><Event ErrorLevel="0" Project="Pharmacy" Source="Pharmacy\Forms\MDIMain.Designer.cs" Description="File successfully backed up as D:\Student\Rami\Pharmacy\Backup\Pharmacy\Forms\MDIMain.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Pharmacy" Source="Pharmacy\Program.cs" Description="File successfully backed up as D:\Student\Rami\Pharmacy\Backup\Pharmacy\Program.cs">
+</Event><Event ErrorLevel="0" Project="Pharmacy" Source="Pharmacy\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Student\Rami\Pharmacy\Backup\Pharmacy\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Pharmacy" Source="Pharmacy\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Student\Rami\Pharmacy\Backup\Pharmacy\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Pharmacy" Source="Pharmacy\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Student\Rami\Pharmacy\Backup\Pharmacy\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Pharmacy" Source="Pharmacy\rptOrder.cs" Description="File successfully backed up as D:\Student\Rami\Pharmacy\Backup\Pharmacy\rptOrder.cs">
+</Event><Event ErrorLevel="0" Project="Pharmacy" Source="Pharmacy\Properties\Settings.settings" Description="File successfully backed up as D:\Student\Rami\Pharmacy\Backup\Pharmacy\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Pharmacy" Source="Pharmacy\DsOrder.xsc" Description="File successfully backed up as D:\Student\Rami\Pharmacy\Backup\Pharmacy\DsOrder.xsc">
+</Event><Event ErrorLevel="0" Project="Pharmacy" Source="Pharmacy\DsOrder.xsd" Description="File successfully backed up as D:\Student\Rami\Pharmacy\Backup\Pharmacy\DsOrder.xsd">
+</Event><Event ErrorLevel="0" Project="Pharmacy" Source="Pharmacy\DsOrder.xss" Description="File successfully backed up as D:\Student\Rami\Pharmacy\Backup\Pharmacy\DsOrder.xss">
+</Event><Event ErrorLevel="0" Project="Pharmacy" Source="Pharmacy\Photo\Save2.png" Description="File successfully backed up as D:\Student\Rami\Pharmacy\Backup\Pharmacy\Photo\Save2.png">
+</Event><Event ErrorLevel="0" Project="Pharmacy" Source="Pharmacy\Photo\Save1.png" Description="File successfully backed up as D:\Student\Rami\Pharmacy\Backup\Pharmacy\Photo\Save1.png">
+</Event><Event ErrorLevel="0" Project="Pharmacy" Source="Pharmacy\Database\PharmacyDB.mdf" Description="File successfully backed up as D:\Student\Rami\Pharmacy\Backup\Pharmacy\Database\PharmacyDB.mdf">
+</Event><Event ErrorLevel="0" Project="Pharmacy" Source="Pharmacy\Database\PharmacyDB_log.ldf" Description="File successfully backed up as D:\Student\Rami\Pharmacy\Backup\Pharmacy\Database\PharmacyDB_log.ldf">
+</Event><Event ErrorLevel="0" Project="Pharmacy" Source="Pharmacy\Photo\Pharmacy.jpg" Description="File successfully backed up as D:\Student\Rami\Pharmacy\Backup\Pharmacy\Photo\Pharmacy.jpg">
+</Event><Event ErrorLevel="0" Project="Pharmacy" Source="Pharmacy\Forms\frmCompany.resx" Description="File successfully backed up as D:\Student\Rami\Pharmacy\Backup\Pharmacy\Forms\frmCompany.resx">
+</Event><Event ErrorLevel="0" Project="Pharmacy" Source="Pharmacy\Forms\frmCusOrder.resx" Description="File successfully backed up as D:\Student\Rami\Pharmacy\Backup\Pharmacy\Forms\frmCusOrder.resx">
+</Event><Event ErrorLevel="0" Project="Pharmacy" Source="Pharmacy\Forms\frmMedicine.resx" Description="File successfully backed up as D:\Student\Rami\Pharmacy\Backup\Pharmacy\Forms\frmMedicine.resx">
+</Event><Event ErrorLevel="0" Project="Pharmacy" Source="Pharmacy\Forms\frmReportView.resx" Description="File successfully backed up as D:\Student\Rami\Pharmacy\Backup\Pharmacy\Forms\frmReportView.resx">
+</Event><Event ErrorLevel="0" Project="Pharmacy" Source="Pharmacy\Forms\frmSupOrder.resx" Description="File successfully backed up as D:\Student\Rami\Pharmacy\Backup\Pharmacy\Forms\frmSupOrder.resx">
+</Event><Event ErrorLevel="0" Project="Pharmacy" Source="Pharmacy\Forms\frmSupplier.resx" Description="File successfully backed up as D:\Student\Rami\Pharmacy\Backup\Pharmacy\Forms\frmSupplier.resx">
+</Event><Event ErrorLevel="0" Project="Pharmacy" Source="Pharmacy\Forms\MDIMain.resx" Description="File successfully backed up as D:\Student\Rami\Pharmacy\Backup\Pharmacy\Forms\MDIMain.resx">
+</Event><Event ErrorLevel="0" Project="Pharmacy" Source="Pharmacy\Properties\Resources.resx" Description="File successfully backed up as D:\Student\Rami\Pharmacy\Backup\Pharmacy\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Pharmacy" Source="Pharmacy\rptOrder.rpt" Description="File successfully backed up as D:\Student\Rami\Pharmacy\Backup\Pharmacy\rptOrder.rpt">
+</Event><Event ErrorLevel="0" Project="Pharmacy" Source="Pharmacy\Pharmacy.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Pharmacy" Source="Pharmacy\Pharmacy.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Pharmacy.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Pharmacy.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Pharmacy" Source="Pharmacy\Pharmacy.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
